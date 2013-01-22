@@ -21,6 +21,8 @@ Extract from the description:
       function. Users of SipHash already include OpenDNS, Perl 5, Ruby, or
       Rust.
 
+`Pysiphash` is tested on Python 2.7 and Python 3.2.
+
 installation
 ----
 
