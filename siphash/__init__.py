@@ -1,6 +1,6 @@
 r'''
 <MIT License>
-Copyright (c) 2012  Marek Majkowski <marek@popcount.org>
+Copyright (c) 2013  Marek Majkowski <marek@popcount.org>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -214,7 +214,7 @@ if __name__ == "__main__":
         "51a9cb9ecba312e6", "96afadfc2ce666c7", "72fe52975a4364ee", "5a1645b276d592a1",
         "b274cb8ebf87870a", "6f9bb4203de7b381", "eaecb2a30b22a87f", "9924a43cc1315724",
         "bd838d3aafbf8db7", "0b1a2a3265d51aea", "135079a3231ce660", "932b2846e4d70666",
-        "e1915f5cb1eca46c", "f325965ca16d629f","575ff28e60381be5", "724506eb4c328a95",
+        "e1915f5cb1eca46c", "f325965ca16d629f", "575ff28e60381be5", "724506eb4c328a95",
         ]]
 
     key = ''.join(chr(i) for i in range(16)).encode('utf-8')
