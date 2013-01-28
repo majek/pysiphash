@@ -1,8 +1,10 @@
 pysiphash
 ====
 
-A Python implementation of [SipHash](https://131002.net/siphash/), a
-fast short-input PRF.
+A Python implementation of [SipHash-2-4](https://131002.net/siphash/),
+a fast short-input
+[PRF](https://en.wikipedia.org/wiki/Pseudorandom_function) with a
+128-bit key and 64-bit output.
 
 Extract from the description:
 
@@ -22,6 +24,8 @@ Extract from the description:
       Rust.
 
 `Pysiphash` is tested on Python 2.7 and Python 3.2.
+
+Introductory blog post: https://idea.popcount.org/2013-01-24-siphash/
 
 installation
 ----
